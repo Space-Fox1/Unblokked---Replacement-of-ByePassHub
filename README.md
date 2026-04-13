@@ -1,5 +1,5 @@
 # Unblokked - Replacement of ByePassHub
-Mainted by [ItsCharged](https://github.com/ItsCharged) and [SpaceFox](https://github.com/Space-Fox1), this is the current version of ByePassHub. <br>
+Mainted by [ItsCharged](https://github.com/ItsCharged) and [SpaceFox](https://github.com/Space-Fox1), this is the a maintained version of ByePassHub. <br>
 Open it [here]() <br> <br>
 Q&A:<br>
 Q: Why is it replacing ByePassHub? <br>
